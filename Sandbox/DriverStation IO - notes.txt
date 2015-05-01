@@ -1,0 +1,15 @@
+As of 4/26/12 (Championship Thurs):
+
+D1 - Front Key AUTO
+D2 - Delay AUTO
+D3 - BridgeFirstAUT0
+D4 - Teamwork AUTO
+D5 - NO Bridge AUTO
+D6 - Corner
+D7 - Kinect E-Stop
+D8 - Nothing AUTO
+
+A1 - Shooter Power
+A2 - Delay Seconds
+A3 - Feed Balls OUT
+A4 - 5.5 Sec Begin

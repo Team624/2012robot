@@ -1,0 +1,24 @@
+0  FFFF 4 Balls
+1  TFFF No ball in front roller
+2  FTFF Rear roller no ball
+3  TTFF 2 Balls in magazine
+4  FFTF Balls in both rollers, and upper mag
+5  TFTF Ball in Upper Mag, and Rear Roller
+6  FTTF Ball in front roller and top mag
+7  TTTF Ball in upper mag
+8  FFFT Balls in front, rear, and lower mag
+9  TFFT Ball in rear loader, and lower mag
+10 FTFT Ball in front and lower mag
+11 TTFT Ball in lower mag
+12 FFTT Balls in front and back roller
+13 TFTT Ball in rear roller
+14 FTTT Ball in front roller
+15 TTTT No balls
+
+Front roller
+Rear roller
+Lower mag
+Upper mag
+
+False => ball detected
+True  => no ball
